@@ -1,7 +1,7 @@
 package com.example.projet
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 
 class Sport : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

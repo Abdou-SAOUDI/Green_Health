@@ -4,10 +4,8 @@
 
     <stroke
         android:width="3dp"
-        android:color="@color/green"
-        />
+        android:color="@color/green" />
 
-    <corners
-        android:radius="30dp"/>
+    <corners android:radius="30dp" />
 
 </shape>

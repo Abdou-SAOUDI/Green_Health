@@ -1,61 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
-        <item android:id="@+id/home"
+        <item
+            android:id="@+id/home"
             android:icon="@drawable/ic_home"
-            android:title="Home"
-            />
-        <item android:id="@+id/favorites"
+            android:title="Home" />
+        <item
+            android:id="@+id/favorites"
             android:icon="@drawable/ic_favorite"
-            android:title="Favorites"
-            />
-        <item android:id="@+id/contact"
+            android:title="Favorites" />
+        <item
+            android:id="@+id/contact"
             android:icon="@drawable/ic_email"
-            android:title="Contact us"
-        />
+            android:title="Contact us" />
 
     </group>
 
-        <item android:title="Setting">
-            <menu>
-                <group android:checkableBehavior="single">
-                    <item android:title="language">
+    <item android:title="Setting">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:title="language">
                     <menu>
                         <group android:checkableBehavior="single">
-                            <item android:id="@+id/french"
-                                 android:title="French"/>
-                            <item android:id="@+id/english"
-                                android:title="English"/>
-                            <item android:id="@+id/arab"
-                                android:title="Arab"/>
+                            <item
+                                android:id="@+id/french"
+                                android:title="French" />
+                            <item
+                                android:id="@+id/english"
+                                android:title="English" />
+                            <item
+                                android:id="@+id/arab"
+                                android:title="Arab" />
                         </group>
                     </menu>
-                    </item>
+                </item>
 
-                    <item android:id="@+id/dark_mode"
-                        android:icon="@drawable/ic_dark_mode"
-                        android:title="Dark mode"
-                        />
-                    <item android:id="@+id/clean"
-                        android:icon="@drawable/ic_delete"
-                        android:title="Clean Favorite"
-                        />
+                <item
+                    android:id="@+id/dark_mode"
+                    android:icon="@drawable/ic_dark_mode"
+                    android:title="Dark mode" />
+                <item
+                    android:id="@+id/clean"
+                    android:icon="@drawable/ic_delete"
+                    android:title="Clean Favorite" />
 
-                </group>
-            </menu>
-        </item>
+            </group>
+        </menu>
+    </item>
 
     <item android:title="Communication">
         <menu>
             <group android:checkableBehavior="single">
-                <item android:id="@+id/share"
+                <item
+                    android:id="@+id/share"
                     android:icon="@drawable/ic_share"
-                    android:title="Share"
-                    />
-                <item android:id="@+id/rate"
+                    android:title="Share" />
+                <item
+                    android:id="@+id/rate"
                     android:icon="@drawable/ic_rate"
-                    android:title="Rate_us"
-                    />
+                    android:title="Rate_us" />
             </group>
         </menu>
     </item>
