@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">healthy nutrition</string>
+    <string name="start_btn">Start</string>
+    <string name="user">User</string>
+    <string name="txt">مرحبا بكم في تطبيق التغذية الصحية الجيدة</string>
+    <string name="diet_1">diet 1</string>
+    <string name="diet_2">diet 2</string>
+    <string name="diet_3">diet 3</string>
+    <string name="diet_4">diet 4</string>
+    <string name="diet_5">diet 5</string>
+    <string name="diet_6">diet 6</string>
+    <string name="diet_7">diet 7</string>
+    <string name="diet_8">diet 8</string>
+    <string name="login">Login</string>
+    <string name="next">Next</string>
+    <string name="welcome">Welcome, create your account to continue</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_date">Birthday</string>
+
+    <string name="question_answer">General questions and answers</string>
+    <string name="monitoring">Continuous monitoring</string>
+    <string name="Medication">Medication stimulant</string>
+    <string name="settings">Settings</string>
+    <string name="help">Support and assistance</string>
+
+    <string name="Continuous_monitoring">Continuous monitoring</string>
+    <string name="Medication_stimulant">Medication stimulant</string>
+    <string name="watch_temperature">Watch your temperature</string>
+    <string name="watch_your_sugar">Watch your sugar</string>
+    <string name="watch_blood_pressure">Watch your blood pressure</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="gender">Gender</string>
+    <string name="feminine">Feminine</string>
+    <string name="male">Male</string>
+    <string name="send">Send</string>
+    <string name="hint_send">write a code</string>
+
+    <string name="stores">Stores</string>
+    <string name="diets">Diets</string>
+    <string name="doctors_account">Docs_account</string>
+    <string name="sport_routine">Sport routine</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="watching">open</string>
+    <string name="hh">close</string>
+    <string name="medicine">Gender</string>
+    <string name="setting">Feminine</string>
+
+    <string name="diabetics">Diabetics</string>
+    <string name="kidney_patients">Kidney Patients</string>
+    <string name="disease1">disease1</string>
+    <string name="disease2">disease2</string>
+    <string name="disease3">disease3</string>
+    <string name="disease4">disease4</string>
+    <string name="disease5">disease5</string>
+    <string name="disease6">disease6</string>
+
+
+</resources>
