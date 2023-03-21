@@ -15,7 +15,7 @@ import com.google.android.material.navigation.NavigationView
 
 
 @Suppress("DEPRECATION")
-class Home : AppCompatActivity() {
+class Diets : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
     private lateinit var foodList: ArrayList<Food>
     private lateinit var foodAdapter: AdapterClass
@@ -26,7 +26,7 @@ class Home : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_home)
+        setContentView(R.layout.activity_deits)
 
 
         /* val bottomNavigationView = findViewById<BottomNavigationView>(R.id.bottomNavigationView)
